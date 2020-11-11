@@ -1,0 +1,16 @@
+﻿
+King
+2
+sword
+shield
+potion
+fireball
+sword
+fireball
+
+
+
+
+
+
+

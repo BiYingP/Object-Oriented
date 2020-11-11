@@ -1,0 +1,7 @@
+﻿Cool
+1
+shield
+sword
+potion
+fireball
+
